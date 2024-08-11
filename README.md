@@ -1,5 +1,5 @@
 <h1>RACING LED LIGHTS COUNTDOWN</h1>
-<p>This project is a basic racing countdown that consist of 3 colors(Green,Yellow,and Red) and a Go text</p>
+<p>This project is a basic racing countdown that consist of 3 colors(Green,Yellow,and Red) with racing sound effects and a Go text</p>
 
 <h2>Screenshot</h2>
 
